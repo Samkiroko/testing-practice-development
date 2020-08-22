@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sz16900/testing-practice.git"
+    "url": "git+https://github.com/Samkiroko/testing-practice-development.git"
   },
   "keywords": [
     "jest",
@@ -18,9 +18,9 @@
   "author": "Seth Zea & Elijah Obominuru",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sz16900/testing-practice/issues"
+    "url": "https://github.com/Samkiroko/testing-practice-development/issues"
   },
-  "homepage": "https://github.com/sz16900/testing-practice#readme",
+  "homepage": "https://github.com/Samkiroko/testing-practice-development#readme",
   "devDependencies": {
     "jest": "^26.1.0"
   },
