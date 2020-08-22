@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/sz16900/testing-practice#readme",
   "devDependencies": {
-    "jest": "^26.1.0"
+    "jest": "^26.1.0",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.2"
   },
   "dependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
