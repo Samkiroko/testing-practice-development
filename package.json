@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samkiroko/testing-practice-development.git"
+    "url": "git+https://github.com/sz16900/testing-practice.git"
   },
   "keywords": [
     "jest",
@@ -18,21 +18,15 @@
   "author": "Seth Zea & Elijah Obominuru",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Samkiroko/testing-practice-development/issues"
+    "url": "https://github.com/sz16900/testing-practice/issues"
   },
-  "homepage": "https://github.com/Samkiroko/testing-practice-development#readme",
+  "homepage": "https://github.com/sz16900/testing-practice#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-plugin-import": "^2.20.2",
-    "jest": "^26.1.0",
-    "stylelint": "^13.3.3",
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-scss": "^3.17.2"
+    "jest": "^26.1.0"
   },
   "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "@babel/plugin-transform-spread": "^7.10.4",
-    "@babel/preset-env": "^7.10.4",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0"
+    "@babel/preset-env": "^7.10.4"
   }
 }

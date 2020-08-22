@@ -1,6 +1,4 @@
-
 ## JavaScript Testing
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -37,7 +35,6 @@ To get a local copy up and running follow these simple example steps.
 - To install jest run npm install.
 - After installing jest and associated dependencies run npm test to run all tests.
 
-
 ### 🤝 Contributing
 
 Contributions, issues and feature requests are welcome! Start by:
@@ -49,7 +46,6 @@ Contributions, issues and feature requests are welcome! Start by:
 - Make your contributions
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
-
 
 ## Authors
 
