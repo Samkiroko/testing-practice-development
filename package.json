@@ -1,8 +1,8 @@
 {
-  "name": "testing_practice_development",
+  "name": "testing-practice",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "We are going to practice using Jest as a testing framework",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "jest",
     "watch": "jest --watch *.js"
@@ -11,28 +11,28 @@
     "type": "git",
     "url": "git+https://github.com/Samkiroko/testing-practice-development.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "jest",
+    "javascript"
+  ],
+  "author": "Seth Zea & Elijah Obominuru",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Samkiroko/testing-practice-development/issues"
   },
   "homepage": "https://github.com/Samkiroko/testing-practice-development#readme",
   "devDependencies": {
-    "@babel/core": "^7.11.4",
-    "@babel/preset-env": "^7.11.0",
-    "babel-jest": "^26.3.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
-    "jest": "^26.4.1",
+    "jest": "^26.1.0",
     "stylelint": "^13.3.3",
     "stylelint-config-standard": "^20.0.0",
-    "stylelint-csstree-validator": "^1.8.0",
-    "stylelint-scss": "^3.17.2",
-    "webpack": "^4.44.1"
+    "stylelint-scss": "^3.17.2"
   },
   "dependencies": {
-    "webpack-cli": "^3.3.12"
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "@babel/plugin-transform-spread": "^7.10.4",
+    "@babel/preset-env": "^7.10.4"
   }
 }
