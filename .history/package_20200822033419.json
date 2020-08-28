@@ -1,0 +1,32 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "We are going to practice using Jest as a testing framework",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samkiroko/testing-practice-development.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript"
+  ],
+  "author": "Seth Zea & Elijah Obominuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samkiroko/testing-practice-development/issues"
+  },
+  "homepage": "https://github.com/Samkiroko/testing-practice-development#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "@babel/plugin-transform-spread": "^7.10.4",
+    "@babel/preset-env": "^7.10.4"
+  }
+}
